@@ -1,0 +1,9 @@
+C:\repos\Inheritance\TestInheritance\bin\Debug\TestInheritance.exe.config
+C:\repos\Inheritance\TestInheritance\bin\Debug\TestInheritance.exe
+C:\repos\Inheritance\TestInheritance\bin\Debug\TestInheritance.pdb
+C:\repos\Inheritance\TestInheritance\bin\Debug\Inheritance.dll
+C:\repos\Inheritance\TestInheritance\bin\Debug\Inheritance.pdb
+C:\repos\Inheritance\TestInheritance\obj\Debug\TestInheritance.csprojResolveAssemblyReference.cache
+C:\repos\Inheritance\TestInheritance\obj\Debug\TestInheritance.csproj.CoreCompileInputs.cache
+C:\repos\Inheritance\TestInheritance\obj\Debug\TestInheritance.exe
+C:\repos\Inheritance\TestInheritance\obj\Debug\TestInheritance.pdb
